@@ -1,0 +1,12 @@
+{
+    "userAccount": "54321",
+    "date": "2016-12-06 10:26:17",
+    "ClickTime": 1480991177,
+    "jsonInfo": {
+        "lon": 121.5612,
+        "lat": 31.1832,
+        "isGps": 1,
+        "netType": "WIFI",
+        "addr": "\u6d66\u4e1c\u65b0\u533a\u957f\u6c5f\u5357\u8def1099\u5f0456\u53f7"
+    }
+}
